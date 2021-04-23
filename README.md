@@ -2,7 +2,8 @@
 - 👀 I’m interested in stock markets, geopolitics and blacksmithing.
 - 🌱 I’m currently learning "Machine learning"
 - 💞️ I’m looking to collaborate on project connected with industry.
-- 📫 My Mail: Mariusz.Kaleta@BMGK.com
+- Mail: Mariusz.Kaleta@BMGK.com
+- Linkedin: https://www.linkedin.com/in/mariusz-kaleta-21417013b/
 
 <!---
 MariuszKaleta/MariuszKaleta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
