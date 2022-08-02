@@ -2,7 +2,7 @@
 - 👀 I’m interested in stock markets, geopolitics and blacksmithing.
 - 🌱 I’m currently learning "Quantum informatics"
 - 💞️ I’m looking to collaborate on project connected with industry.
-Author of https://plctianetlibrary.bmgk.tech/ framework for writing PLC code in C# and
+- Author of https://plctianetlibrary.bmgk.tech/ framework for writing PLC code in C# and
 https://vass6plccreator.bmgk.tech/ code generator tool dedicated for Volkswagen standard.
 Seeker of universal patterns of logic, which could i implement in my applications to speed up and ease work PLC programmers.
 - Mail: Mariusz.Kaleta@BMGK.Tech
